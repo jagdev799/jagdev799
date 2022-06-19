@@ -52,7 +52,7 @@ Hello, I am an undergraduate student at NIT Manipur <p>A Fast Learner and an And
 
 <a href="http://www.github.com/jagdev799"><img src="https://github-readme-stats.vercel.app/api?username=jagdev799&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jagdev799's GitHub stats" /></a>
 
-<a href="http://www.github.com/jagdev799"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jagdev799&stroke=a855f7&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=a855f7&currStreakLabel=3382ed&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+
 
 <a href="https://github.com/jagdev799" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdev799&langs_count=10&title_color=3382ed&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
