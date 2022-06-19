@@ -1,6 +1,6 @@
-Hi 👋 My name is Jagdev Singh!
-==============================
-
+                                                           Hi 👋 My name is Jagdev Singh!
+                                                           ==============================
+                                                           
 Java Developer || Android Developer Intern @ Lets Grow More
 -----------------------------------------------------------
 
@@ -24,10 +24,11 @@ Hello, I am an undergraduate student at NIT Manipur A Fast Learner and an Androi
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/jagdevpanwar799" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/jagdev799" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="http://www.instagram.com/itz_panwar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/jagdevpanwar799" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="http://www.instagram.com/itz_panwar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
 
-  <b>### Proffesional Links</b>
+### Proffesional Links
 <p>
+   <a href="https://www.github.com/jagdev799" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/itzpanwar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  <a href="http://www.medium.com/@panwarjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32"/></a>
   <a href="https://auth.geeksforgeeks.org/user/panwarjagdev" target="_blank" rel="noreferrer"><img src="gfg.png" width="32" height="32"/></a>
