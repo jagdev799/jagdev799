@@ -24,7 +24,7 @@ Hello, I am an undergraduate student at NIT Manipur <p>A Fast Learner and an And
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/jagdevpanwar799" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="http://www.instagram.com/itz_panwar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/jagdevpanwar799" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="http://www.instagram.com/itz_.panwar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
 
 ### Proffesional Links
 <p>
