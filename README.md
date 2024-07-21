@@ -1,10 +1,14 @@
 Hi 👋 My name is Jagdev Singh!
 ==============================
 
-Java Developer || Android Developer Intern @ Lets Grow More
------------------------------------------------------------
+SOFTWARE ENGINEER || CPP Developer || Java Developer || Soft. Eng. @ TATA ELXSI Ltd. || Engineering Intern @ Thoughtspot || Android Developer Intern @ Lets Grow More
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hello, I am an undergraduate student at NIT Manipur <p>A Fast Learner and an Android Developer looking for opportunities to use my knowledge give my best to solve real-time problems  </p>
+Hello, I am Software Engineer with a little over 1.5 years of professional experience, starting from my internship at ThoughtSpot starting from  Feb/2023. @ TATA Elxsi Ltd. as a  C++ Developer.Following my internship, I joined Tata Elxsi Ltd. in June 2023 as a Software Engineer.
+
+
+ I've been working on Advanced Driver Assistance & Autonomous Driving Systems (ADAS/AD) projects in TATA Elxsi Ltd. My role involves developing a Resimulation tool using C++/C and cmake, adding new features to enhance the tool's functionality.
+ At ThoughtSpot, I worked as an Engineering Intern where I was responsible for debugging React code and performing unit tests using the Playwright framework. I also worked on modifying design elements on the website, showcasing my skills in front end development using technologies like Java, React, JavaScript, and CSS.
 
 * 🌍  I'm based in Sri Ganganagar, Rajasthan, India and free to relocate for better offers
 * 🧠  I'm learning Full Stack Development
