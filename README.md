@@ -8,6 +8,7 @@ Hello, I am Software Engineer with a little over 1.5 years of professional exper
 
 
  I've been working on Advanced Driver Assistance & Autonomous Driving Systems (ADAS/AD) projects in TATA Elxsi Ltd. My role involves developing a Resimulation tool using C++/C and cmake, adding new features to enhance the tool's functionality.
+ 
  At ThoughtSpot, I worked as an Engineering Intern where I was responsible for debugging React code and performing unit tests using the Playwright framework. I also worked on modifying design elements on the website, showcasing my skills in front end development using technologies like Java, React, JavaScript, and CSS.
 
 * 🌍  I'm based in Sri Ganganagar, Rajasthan, India and free to relocate for better offers
