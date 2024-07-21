@@ -1,7 +1,7 @@
 Hi 👋 My name is Jagdev Singh!
 ==============================
 
-SOFTWARE ENGINEER || CPP Developer || Java Developer || Soft. Eng. @ TATA ELXSI Ltd. || Engineering Intern @ Thoughtspot || Android Developer Intern @ Lets Grow More
+SOFTWARE ENGINEER || CPP Developer || Java Developer || Soft. Eng. @ TATA ELXSI Ltd. || Engineering Intern @ Thoughtspot 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hello, I am Software Engineer with a little over 1.5 years of professional experience, starting from my internship at ThoughtSpot starting from  Feb/2023. @ TATA Elxsi Ltd. as a  C++ Developer.Following my internship, I joined Tata Elxsi Ltd. in June 2023 as a Software Engineer.
